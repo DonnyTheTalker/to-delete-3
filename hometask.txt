@@ -1,2 +1,7 @@
-with nice buttons on his jacket (buttons branch) - added
-4 new commits
+with nice buttons on his jacket (buttons branch) - added into 'human.txt'
+5 new commits
+5 - hometask updated
+4 - hometask added
+3 - Merge remote-tracking branch 'origin/hat'
+2 - Merge remote-tracking branch 'origin/boots' into boots_buttons
+1 - Merge remote-tracking branch 'origin/buttons' into boots_buttons
